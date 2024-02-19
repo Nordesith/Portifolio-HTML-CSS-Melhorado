@@ -50,7 +50,6 @@ body {
 
 .apresentacao__conteudo {
     width: 615px;
-    height: 482px;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
